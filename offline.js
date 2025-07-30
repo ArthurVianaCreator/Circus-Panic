@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1753889752,
+	"version": 1753908245,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -8,6 +8,9 @@
 		"images/button_left-sheet0.png",
 		"images/button_right-sheet0.png",
 		"images/button_up-sheet0.png",
+		"images/comojogar-sheet0.png",
+		"images/textbg-sheet0.png",
+		"images/logo-sheet0.png",
 		"images/brock1.png",
 		"images/player-sheet0.png",
 		"images/player-sheet1.png",
@@ -15,8 +18,6 @@
 		"images/ball-sheet0.png",
 		"images/ballbarrier-sheet0.png",
 		"images/sprite-sheet0.png",
-		"images/playerbarrier-sheet0.png",
-		"images/sprite2-sheet0.png",
 		"images/ball2-sheet0.png",
 		"images/ball3-sheet0.png",
 		"icon-16.png",
